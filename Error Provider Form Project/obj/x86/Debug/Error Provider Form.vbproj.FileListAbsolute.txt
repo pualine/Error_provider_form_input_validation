@@ -1,0 +1,9 @@
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\bin\Debug\SectionC Question1 ErrorProvider Project.exe
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\bin\Debug\SectionC Question1 ErrorProvider Project.pdb
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\bin\Debug\SectionC Question1 ErrorProvider Project.xml
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\SectionC_Question1_ErrorProvider_Project.Form1.resources
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\SectionC_Question1_ErrorProvider_Project.Resources.resources
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\Error Provider Form.vbproj.GenerateResource.Cache
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\SectionC Question1 ErrorProvider Project.exe
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\SectionC Question1 ErrorProvider Project.xml
+C:\Users\tech age\Documents\Visual Studio 2010\Projects\SectionC Question1 ErrorProvider Project\SectionC Question1 ErrorProvider Project\obj\x86\Debug\SectionC Question1 ErrorProvider Project.pdb
